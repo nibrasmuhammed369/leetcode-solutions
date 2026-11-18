@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/nibrasmuhammed369/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2235-add-two-integers](https://github.com/nibrasmuhammed369/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/nibrasmuhammed369/leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/nibrasmuhammed369/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -16,9 +17,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/nibrasmuhammed369/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nibrasmuhammed369/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/nibrasmuhammed369/leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/nibrasmuhammed369/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
